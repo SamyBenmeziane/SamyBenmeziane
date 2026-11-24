@@ -1,31 +1,69 @@
-# Salut, moi c'est Samy
+# Bonjour, moi c'est Samy
 
-Je suis en Master 1 Réseaux (RES) à Sorbonne Université. Ce qui m'intéresse surtout, c'est la sécurité des systèmes d'information et la protection des données.
+Je suis étudiant en Master 1 Informatique à Sorbonne Université, dans le parcours Réseaux : Internet, Cybersécurité, Cloud et Automatisation (RES).
+
+Je m'intéresse principalement à la cybersécurité, à la sécurité des réseaux et des systèmes, ainsi qu'aux applications de l'intelligence artificielle dans ces domaines.
 
 ## Mes projets
 
-### CVEye
+### CVEye : plateforme d'analyse de vulnérabilités
 
-Un projet de L3 fait à 4. C'est une application web qui scanne un serveur, repère les services qui tournent dessus et cherche s'ils ont des failles connues. On peut programmer des scans réguliers et recevoir un rapport PDF par mail.
+Projet de fin de licence réalisé en équipe de quatre étudiants à l'Université Paris Cité.
 
-De mon côté, je me suis occupé de la recherche des failles dans la base NVD et dans d'autres bases, de la gestion des droits des utilisateurs, et j'ai participé à la mise en ligne sur le serveur.
+Développement d'une application web permettant d'identifier les services réseau exposés, de rechercher les vulnérabilités connues et d'évaluer leur gravité.
 
-https://github.com/SamyBenmeziane/CVEye
+Mes contributions portent principalement sur l'intégration des bases de vulnérabilités, notamment NVD, la gestion des droits d'accès, la sécurisation de l'application Django, les tests et la sécurisation du serveur.
+
+**Technologies :** Python, Django, API NVD, CVE/CVSS.
+
+[Dépôt GitHub](https://github.com/SamyBenmeziane/CVEye)
+
+### DominoAI : intelligence artificielle pour un jeu de dominos
+
+Projet universitaire réalisé en binôme, consacré à la conception et à l'évaluation de différentes stratégies d'intelligence artificielle.
+
+Développement d'agents de jeu utilisant l'algorithme Minimax, l'élagage alpha-bêta et plusieurs fonctions d'évaluation heuristique. Comparaison expérimentale de cinq stratégies sur 600 parties et analyse de leurs performances.
+
+**Technologies :** Python, Minimax, élagage alpha-bêta, heuristiques.
+
+[Dépôt GitHub](https://github.com/SamyBenmeziane/Projet-Dominos-avec-IA)
+
+### EuroCoinDetector : détection de pièces en euros
+
+Développement d'un système de traitement d'images permettant de détecter des pièces en euros et d'estimer automatiquement leur valeur totale.
+
+**Technologies :** Python, vision par ordinateur, traitement d'images.
+
+[Dépôt GitHub](https://github.com/SamyBenmeziane/EuroCoinDetector)
 
 ### TLS Certificate Monitor (en cours)
 
-Un petit outil en Python pour surveiller les certificats HTTPS de plusieurs sites et être prévenu avant qu'ils expirent. Je le développe en ce moment.
+Projet personnel visant à développer un outil de surveillance des certificats SSL/TLS de plusieurs sites web et de notification avant leur expiration.
 
-## Ce que j'utilise
+**Technologies :** Python, OpenSSL, SSL/TLS.
 
-Python, Django, Linux, Git, Wireshark, OpenSSL.
+## Compétences techniques
 
-Côté réseau : TCP/IP, DNS, HTTPS.
+- **Cybersécurité :** analyse de vulnérabilités, CVE/CVSS, SSL/TLS, notions de pare-feu et de VPN.
+- **Réseaux :** TCP/IP, adressage IP, routage, DNS, HTTP/HTTPS.
+- **Systèmes :** Linux, SSH, gestion des utilisateurs et des permissions.
+- **Programmation :** Python, C, C++, Java, OCaml.
+- **Intelligence artificielle :** algorithmes de recherche, heuristiques et traitement d'images.
+- **Outils et technologies :** Git, Docker, Django, Wireshark, Nmap, OpenSSL.
 
 ## Formation
 
-J'ai suivi le MOOC « L'atelier RGPD » de la CNIL.
+- **2026 – en cours :** Master Informatique, parcours RES, Sorbonne Université.
+- **2025 – 2026 :** Licence Informatique et Applications, Université Paris Cité.
+
+## Formation complémentaire
+
+- MOOC « L'atelier RGPD » de la CNIL (en cours).
+
+## Objectifs professionnels
+
+Je recherche un stage de 2 à 3 mois pour l'été 2027 dans les domaines de la cybersécurité et de la sécurité des réseaux, avec un intérêt particulier pour les travaux de recherche.
 
 ## Me contacter
 
-LinkedIn : https://www.linkedin.com/in/samy-benmeziane
+[LinkedIn](https://www.linkedin.com/in/samy-benmeziane)
